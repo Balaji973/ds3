@@ -13,8 +13,8 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 ```java
 /*
 Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
-Developed by: BALAJI KAMARAJ
-RegisterNumber: 212224040043
+Developed by: BALAJI J
+RegisterNumber: 212224040042
 */
 
 import java.util.*;
